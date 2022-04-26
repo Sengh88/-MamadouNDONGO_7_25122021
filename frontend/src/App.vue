@@ -8,7 +8,7 @@
 
 <script>
 import NavHeader from "./components/NavHeader"
-import Footer from "./components/Footer"
+import Footer from "./components/Footer.vue"
 
 export default {
     name: "App",

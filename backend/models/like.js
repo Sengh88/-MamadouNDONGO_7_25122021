@@ -1,7 +1,7 @@
 // vote model
 // ------------------------- IMPORTS -------------------------
 
-const client = require('../config/db-pg-connect');
+const client = require('../config/db');
 const format = require('pg-format');
 
 // ============================================================

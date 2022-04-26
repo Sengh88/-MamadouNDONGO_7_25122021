@@ -2,7 +2,7 @@
 // ------------------------- IMPORTS -------------------------
 
 const bcrypt = require('bcrypt'); // package password cryptage
-const { encryptEmail, decryptEmail } = require('../middleware/crypto.js'); // import crypto tool
+
 
 // ---- import User Model
 const User = require('../models/User');

@@ -2,7 +2,8 @@
 
 // ------------------------- IMPORTS -------------------------
 
-const multer = require('multer'); // package
+//const multer = require('multer'); // package
+import {multer} from 'multer'
 
 // ---------------------- Mime Library -------------------------
 

@@ -3,7 +3,7 @@
 
 const bcrypt = require('bcrypt'); // package password cryptage
 const jwToken = require('jsonwebtoken'); // package token
-const { encryptEmail } = require('../middleware/crypto.js'); // import crypto tool
+
 
 // ---- import User Model
 const User = require('../models/User');
